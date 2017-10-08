@@ -1,0 +1,3 @@
+# Legithack
+* Offical Update Notes
+* 
